@@ -1,0 +1,6 @@
+ID,Age,Blood_Pressure,Cholesterol,Exercise_Hours,Heart_Disease
+1,45,130,220,2.0,1
+2,50,140,250,1.0,1
+3,35,120,180,5.0,0
+4,60,150,280,0.5,1
+5,40,125,190,4.0,0
